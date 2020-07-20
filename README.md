@@ -1,1 +1,1 @@
-# Naive-Bayes-to-Amazon-reviews
+# Naive-Bayes-to-Amazon-review
